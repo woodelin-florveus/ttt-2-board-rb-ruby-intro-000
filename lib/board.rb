@@ -1,6 +1,5 @@
 # Define the variable board below.
-board = ""
-
-row = [" "," "," "," "," "," "," "," "," "]
 
 board = row
+
+row = [" "," "," "," "," "," "," "," "," "]
